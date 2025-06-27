@@ -20,7 +20,7 @@ Project được cài cài đặt tại `D:/FashionShop`:
    Sử dụng lệnh `cd` để thay đổi đường dẫn đến project folder:
 
    ```bash
-   cd D:/FashionShop
+   cd D:/MobileShop
    ```
 
 3. **Install dependencies**:
@@ -53,7 +53,7 @@ Project được cài cài đặt tại `D:/FashionShop`:
    Thực thi các lệnh sau trong git bash:
 
    ```bash
-   cd /d/FashionShop/frontend
+   cd /d/MobileShop/frontend
    npm install
    ```
 
