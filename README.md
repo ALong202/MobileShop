@@ -10,7 +10,7 @@
 ## Setup project in Visual Studio Code
 
 <a name="SetupProjectinVisualStudioCode"></a>
-Project được cài cài đặt tại `D:/FashionShop`:
+Project được cài cài đặt tại `D:/MobileShop`:
 
 1. **Open a Terminal or Command Prompt**:
    * Trên Windows, mở Command Prompt bằng tổ hợp phím `Win + R`, gõ `cmd`, và nhấn Enter.
